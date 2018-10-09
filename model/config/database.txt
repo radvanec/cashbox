@@ -1,0 +1,4 @@
+dns: localhost
+username: root
+password: no 
+dbname: yoja
